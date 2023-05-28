@@ -1,0 +1,6 @@
+﻿  Client.cpp
+C:\Users\Даниил\Desktop\библиотека\MySolution\Client\Client.cpp(288,58): warning C4244: +=: преобразование "double" в "int", возможна потеря данных
+C:\Users\Даниил\Desktop\библиотека\MySolution\Client\Client.cpp(289,21): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\Даниил\Desktop\библиотека\MySolution\Client\Client.cpp(297,65): warning C4244: +=: преобразование "double" в "int", возможна потеря данных
+C:\Users\Даниил\Desktop\библиотека\MySolution\Client\Client.cpp(298,21): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+  Client.vcxproj -> C:\Users\Даниил\Desktop\библиотека\MySolution\Debug\Client.exe
